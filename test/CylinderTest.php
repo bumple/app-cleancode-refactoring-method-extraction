@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: phanluan
- * Date: 26/10/2018
- * Time: 22:56
- */
+
 require __DIR__ . "/../src/Cylinder.php";
 
 use PHPUnit\Framework\TestCase;
