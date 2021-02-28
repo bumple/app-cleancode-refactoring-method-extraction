@@ -1,2 +1,3 @@
-# php-cleancode-refactoring-method-extraction
-Simple refactoring exercise used at [CodeGym](https://codegym.vn)
+
+# app-cleancode-refactoring-method-extraction
+Mã nguồn được sử dụng thực hành tại [CodeGym](https://codegym.vn)
